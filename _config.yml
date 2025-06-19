@@ -18,7 +18,7 @@ description: "A blog to document my day trading journey."
 baseurl: ""
 
 # The base hostname & protocol of your site for where absolute urls are needed.
-url: "https://scriptor-jekyll.netlify.com"
+url: "https://trading-blog-sand.vercel.app"
 
 # Favicon
 favicon: images/favicon.png
